@@ -11,7 +11,7 @@ title                    : "Jasmin Kareem"
 title_separator          : "-"
 name                     : &name "Jasmin Kareem"
 description              : &description "Welcome to my website! I am a 1st year PhD student at the Information Retrieval Lab (IRLab) based in both the University of Amsterdam and Jheronimus Academy of Data Science (TU Eindhoven) as part of an ICAI Lab on Responsible Media. My work focuses on Explaining Recommender Systems, in particular in the news article recommendation domain."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://jasminkareem.github.io"
+url                      : https://jasminkareem.github.io # the base hostname & protocol for your site e.g. "https://jasminkareem.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jasminkareem/jasminkareem.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/jasminkareem/"
+  linkedIn         : "https://www.linkedin.com/in/jasminkareem/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
