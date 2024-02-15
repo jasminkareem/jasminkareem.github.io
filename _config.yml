@@ -22,7 +22,7 @@ author:
   bio              : "1st year PhD student working on Explainable AI for Recommender Systems"
   pronouns         : # example: "she/her"
   location         : "Amsterdam"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   employer         :
   email            :  "j.kareem@tue.nl"
   uri              :
@@ -31,7 +31,7 @@ author:
   arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=IGmuCs0AAAAJ"         # Update with the correct link to your profile
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 
   # Social media
@@ -47,7 +47,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jasminkareem/"
   kaggle           : 
   mastodon         : 
   medium           : "https://medium.com/@jasminkareem505"
