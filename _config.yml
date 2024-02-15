@@ -29,7 +29,7 @@ author:
 
   # Manuscript repositories
   arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=IGmuCs0AAAAJ"         # Update with the correct link to your profile
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -41,22 +41,22 @@ author:
   facebook         :
   flickr           :
   foursquare       :
-  github           : "academicpages"
+  github           : "jasminkareem"
   goodreads        :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  kaggle           : # "kaggleusername"
-  mastodon         : "mastodonhandle"
-  medium           : # "add medium profile url here"
+  kaggle           : 
+  mastodon         : 
+  medium           : "https://medium.com/@jasminkareem505"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@JasKareem"
   vine             :
   weibo            :
   wikipedia        :
