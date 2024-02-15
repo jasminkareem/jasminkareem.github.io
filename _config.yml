@@ -11,9 +11,9 @@ title                    : "Jasmin Kareem"
 title_separator          : "-"
 name                     : &name "Jasmin Kareem"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jasminkareem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jasminkareem/jasminkareem.github.io"
 
 # Site Author
 author:
