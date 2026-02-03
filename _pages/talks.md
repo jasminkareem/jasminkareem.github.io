@@ -13,5 +13,5 @@ author_profile: true
 ## Talk 1 at X
 * **Title:** title
 * **Abstract:** abstract
-* [Slides]{https://jasminkareem.github.io/}
+* [Slides](https://jasminkareem.github.io/)
 
