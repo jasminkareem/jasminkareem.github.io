@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my up-to-date CV [here](https://github.com/jasminkareem/jasminkareem.github.io/tree/main/files/CV_Jasmin_Kareem_January_2026.pdf)
+You can find my up-to-date CV [here](https://github.com/jasminkareem/jasminkareem.github.io/tree/main/files/CV_JasminKareem_January_2026.pdf)
 
 
 Education
