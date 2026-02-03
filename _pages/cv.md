@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my up-to-date CV [here]{http://academicpages.github.io/files/CV - Jasmin Kareem - January 2026.pdf}
+
 Education
 ======
 * Joint BSc in Data Science, Eindhoven University of Technology & Tilburg University, 2020
