@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my up-to-date CV [here]{http://academicpages.github.io/files/CV - Jasmin Kareem - January 2026.pdf}
+You can find my up-to-date CV [here](http://academicpages.github.io/files/CV%20-%20Jasmin%20Kareem%20)
+
 
 Education
 ======
