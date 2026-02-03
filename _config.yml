@@ -19,7 +19,7 @@ repository               : "jasminkareem/jasminkareem.github.io"
 author:
   name             : "Jasmin Kareem"
   avatar           : "DSCF0862_croppedsquare.jpg"
-  bio              : "1st year PhD student working on Explainable AI for Recommender Systems"
+  bio              : "3rd year PhD student working on Explainable AI for Recommender Systems"
   pronouns         : # example: "she/her"
   location         : "Amsterdam"
   orcid            : #"http://orcid.org/yourorcidurl"
@@ -62,6 +62,7 @@ author:
   wikipedia        :
   xing             :
   youtube          :
+  bluesky          : "@jasminkareem.bsky.social"
 
 
 # Site Settings
