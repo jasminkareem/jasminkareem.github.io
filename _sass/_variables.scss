@@ -53,18 +53,19 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$body-color                 : #e6f7f1;   // very light mint for the body
+$background-color           : #e6f7f1;   // light mint background
+$code-background-color      : #d0f0e0;   // soft mint for code blocks
+$code-background-color-dark : #b2e6cf;
+$text-color                 : #2f3e36;   // dark greenish-gray for readability
+$border-color               : #c0e6d3;   // soft mint border
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$primary-color              : #3eb489;   // mint green for buttons, links
+$success-color              : #2ecc71;   // complementary success green
+$warning-color              : #f1c40f;   // optional yellow/orange accent
+$danger-color               : #e74c3c;   // optional red accent
+$info-color                 : #66cdaa;   // teal/mint accent
+
 
 /* brands */
 $behance-color              : #1769FF;
