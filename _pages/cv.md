@@ -20,8 +20,8 @@ Education
 
 Work experience
 ======
-* April 2021 - 2022: Intern
-  * Microsoft NL
-  * Customer Success Unit
+* April 2021 - 2022: Intern at Microsoft NL in the Customer Success Unit
+
+
     
   
