@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /year-archive/
+permalink: /blogposts/
 title: "Blog posts"
 author_profile: true
 redirect_from:
