@@ -28,11 +28,11 @@ author_profile: true
 ## Recommender systems at University of Amsterdam
 * **Years:** 2024
 * **Role:** TA
-* **Description:** I supervised and graded groups that reproduce papers in the field of news recommender systems, following the 2024 recsys challenge (https://www.recsyschallenge.com/2024/).
+* **Description:** I supervised and graded groups that reproduce papers in the field of news recommender systems, following the 2024 recsys challenge ([https://www.recsyschallenge.com/2024/](https://www.recsyschallenge.com/2024/)).
 
 ---
 
 ## Social Network Analysis at Leiden University
 * **Years:** 2022
 * **Role:** TA
-* **Description:** As a master student, I helped grade and supervise groups in their projects where they reproduced a paper in the network analysis field (see: https://liacs.leidenuniv.nl/~takesfw/SNACS/index2022.html). I also helped TA the [online course at King's College London on Network Analysis.](https://liss-dtp.ac.uk/wp-content/uploads/2023/09/LISS238-Social-Network-Analysis-_-TP.pdf)
+* **Description:** As a master student, I helped grade and supervise groups in their projects where they reproduced a paper in the network analysis field ([see study guide here](https://liacs.leidenuniv.nl/~takesfw/SNACS/index2022.html)). I also helped TA the [online course at King's College London on Network Analysis.](https://liss-dtp.ac.uk/wp-content/uploads/2023/09/LISS238-Social-Network-Analysis-_-TP.pdf)
