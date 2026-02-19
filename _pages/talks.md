@@ -11,11 +11,6 @@ author_profile: true
 ---
 
 No (external) talks yet (lots of internal ones though)...
-<!---
- ## Talk 1 at X
-* **Title:** title
-* **Abstract:** abstract
-* [Slides](https://jasminkareem.github.io/)
--->
+
 
 
